@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Android Phone",
+      "category":"android",
+      "image":"https://i.ibb.co/ZMq0FsW/4-Hj-JYWw-Dms-X5xd-DLokp-BL5.jpg"
+    },
+    {
+      "name": "Featured phone",
+      "category":"featured",
+      "image":"https://i.ibb.co/bbn3CbL/0188438-bl120-symphony-feature-phone-415.jpg"
+    },
+    {
+      "name": "Windows Phone",
+      "category":"windows",
+      "image":"https://i.ibb.co/1sbdzsC/DSC-5459sm-678x452.jpg"
+    },
+    {
+      "name": "Tablet",
+      "category":"tablet",
+      "image":"https://i.ibb.co/LkxfBs6/210921222249-3-9th-gen-ipad-review-underscored.jpg"
+  }
+ ]
